@@ -19,9 +19,6 @@ Skills: PYTHON / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&theme=synthwave&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BushraMaryam)  
-
-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BushraMaryam)  
 
