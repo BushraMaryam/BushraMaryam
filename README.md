@@ -3,7 +3,6 @@
 
 I'm Bushra Maryam, a student of Computer Science and I'm a machine learning engineer  👨‍💻  
 
-Skills: PYTHON / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on  Web and App Development 
 - 🌱 I’m currently learning  MERN and AI 
