@@ -1,11 +1,11 @@
 ### Hi there 👋,  
 
 
-I'm Bushra Maryam, a student of Computer Science and Data Science  👨‍💻  
+I'm Bushra Maryam, a student of Computer Science  👨‍💻  
 
 
-- 🔭 I’m currently working on  Web and App Development 
-- 🌱 I’m currently learning  MERN and AI 
+- 🔭 I’m currently working on  Data Science Research
+- 🌱 I’m currently learning  Data Science Techniques and AI 
 - 💬 Ask me about Web Dev., Data handling and Machine Learning based Projects. 
 - 📫 How to reach me: bushramaryam411@gmail.com 
 - ⚡ Fun fact: I use tabs over spaces 
