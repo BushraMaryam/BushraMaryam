@@ -1,7 +1,7 @@
 ### Hi there 👋,  
 
 
-I'm Bushra Maryam, a student of Computer Science and I'm a machine learning engineer  👨‍💻  
+I'm Bushra Maryam, a student of Computer Science and Data Science  👨‍💻  
 
 
 - 🔭 I’m currently working on  Web and App Development 
