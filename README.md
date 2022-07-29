@@ -1,5 +1,5 @@
 ### Hi there 👋,  
-![](https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif)
+
 
 I'm Bushra Maryam, a student of Computer Science and I'm a machine learning engineer  👨‍💻  
 
