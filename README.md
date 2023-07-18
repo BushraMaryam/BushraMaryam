@@ -13,12 +13,6 @@ I'm Bushra Maryam, a student of Computer Science  👨‍💻
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&hide=contribs,prs)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&theme=synthwave&show_icons=true)
 
 
 
