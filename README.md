@@ -13,11 +13,16 @@ I'm Bushra Maryam, a student of Computer Science  👨‍💻
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BushraMaryam)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&theme=synthwave&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BushraMaryam)  
 
