@@ -16,7 +16,7 @@ I'm Bushra Maryam, a student of Computer Science  👨‍💻
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&show_icons=true&theme=gruvbox)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BushraMaryam)  
 
