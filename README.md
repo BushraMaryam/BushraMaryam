@@ -20,6 +20,7 @@ I'm Bushra Maryam, a student of Computer Science  👨‍💻
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BushraMaryam)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BushraMaryam&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
