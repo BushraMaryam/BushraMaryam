@@ -20,13 +20,12 @@ I'm Bushra Maryam, a student of Computer Science  👨‍💻
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&theme=synthwave&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&show=reviews)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraMaryam&show_icons=true&theme=radical)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BushraMaryam)  
 
-![Profile views](https://gpvc.arturio.dev/BushraMaryam) 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
